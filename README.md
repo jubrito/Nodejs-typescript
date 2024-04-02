@@ -1,8 +1,9 @@
-$ npm init
-$ tsc --init
+```$ npm init```
+
+```$ tsc --init```
 
 
-Ts config:
+**Ts config:**
 
 - "target": "es2018": Set the JavaScript language version for emitted JavaScript and include compatible library declarations.
 - "module": "commonjs": Specify what module code is generated.
